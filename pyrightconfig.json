@@ -1,0 +1,8 @@
+{
+    "venvPath": "C:\\Users\\madmax\\AppData\\Roaming\\Python\\Python312\\site-packages",
+    "venv": ".",
+    "extraPaths": [
+        "C:\\Users\\madmax\\AppData\\Roaming\\Python\\Python312\\site-packages",
+        "C:\\Python312\\Lib\\site-packages"
+    ]
+}
